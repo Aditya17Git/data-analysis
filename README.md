@@ -1,1 +1,1 @@
-# data-analysis
+The app automates the workflow for data analyis. using the app one can upload any csv file and the rest is completely automated. The app after the data is uploaded automatically cleans process analyse and visualize.
